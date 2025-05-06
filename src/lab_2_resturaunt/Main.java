@@ -1,4 +1,4 @@
-package restaurant;
+package lab_2_resturaunt;
 
 public class Main {
     public static void main(String[] args) {
